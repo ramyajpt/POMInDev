@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31658" started-at="2018-06-26T14:05:11Z" finished-at="2018-06-26T14:05:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31658" started-at="2018-06-26T14:05:11Z" finished-at="2018-06-26T14:05:43Z">
+      <class name="testcases.CreateLead">
+        <test-method status="PASS" signature="login()[pri:0, instance:testcases.CreateLead@3708b3]" name="login" is-config="true" duration-ms="13311" started-at="2018-06-26T14:05:12Z" finished-at="2018-06-26T14:05:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="createLead()[pri:0, instance:testcases.CreateLead@3708b3]" name="createLead" duration-ms="17413" started-at="2018-06-26T14:05:25Z" finished-at="2018-06-26T14:05:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLead -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:testcases.CreateLead@3708b3]" name="closeApp" is-config="true" duration-ms="740" started-at="2018-06-26T14:05:42Z" finished-at="2018-06-26T14:05:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- testcases.CreateLead -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
